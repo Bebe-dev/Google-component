@@ -1,0 +1,10 @@
+.header{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1rem;
+}
+.menu-item:hover{
+  font-size: 1rem;
+}
