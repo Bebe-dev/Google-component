@@ -5,6 +5,7 @@
   margin-top: 2rem;
   width: 50%;
   padding: 1.5rem;
+  padding-left: 3rem;
   font-size: 16px;
 }
 .input-div{
@@ -20,7 +21,7 @@
   top: 50%;
 }
 .search-icon{
-  left: 25%;
+  right: 75%;
 }
 .mic{
   right: 30%;
